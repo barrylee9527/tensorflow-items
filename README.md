@@ -58,6 +58,8 @@ make clean      # 清理文件
 export LAPACK=~/src/lapack-3.6.0/   # 导出LAPACK环境变量
 ```
 # 代码整理封装
+maskrcnn文件夹里面保存的是用于进行细胞核分割的代码
+
 # 使用范例说明
 # 使用数据清单
 # 历史训练结果
